@@ -1,0 +1,6 @@
+@CNCWebAPI_HostAddress = http://localhost:5210
+
+GET {{CNCWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
